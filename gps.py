@@ -3,6 +3,7 @@ import serial
 import string
 import pynmea2
 from datetime import datetime, timedelta
+import log
 
 while True:
 	port="/dev/ttyAMA0"
@@ -17,7 +18,9 @@ while True:
 		lng=newmsg.longitude
 		dt = newmsg.timestamp
 		print(dt.hour, dt.minute, dt.second)
-		print((newmsg.datetime.utcnow() + timedelta(hours=8)).strftime("%m/%d/%Y, %H:%M:%S"))
+		time_s = (newmsg.datetime.utcnow() + timedelta(hours=8)).strftime("%m/%d/%Y, %H:%M:%S")
+		log.PlatformLog.info('time::%s',time_s)
+		log.PlatformLog.info('%s',time_s)
         
 		gps = "Latitude=" + str(lat) + " and Longitude=" + str(lng)
-		print(gps)
+		log.PlatformLog.info('%s',gps)
