@@ -1,0 +1,288 @@
+2023-03-06 17:55:34,247 log.py[line:35] INFO PIDS_A
+2023-03-06 17:55:34,247 log.py[line:35] INFO STATUS
+2023-03-06 17:55:34,247 log.py[line:35] INFO FREEZE_DTC
+2023-03-06 17:55:34,247 log.py[line:35] INFO FUEL_STATUS
+2023-03-06 17:55:34,247 log.py[line:35] INFO ENGINE_LOAD
+2023-03-06 17:55:34,247 log.py[line:35] INFO COOLANT_TEMP
+2023-03-06 17:55:34,247 log.py[line:35] INFO SHORT_FUEL_TRIM_1
+2023-03-06 17:55:34,247 log.py[line:35] INFO LONG_FUEL_TRIM_1
+2023-03-06 17:55:34,247 log.py[line:35] INFO SHORT_FUEL_TRIM_2
+2023-03-06 17:55:34,247 log.py[line:35] INFO LONG_FUEL_TRIM_2
+2023-03-06 17:55:34,247 log.py[line:35] INFO FUEL_PRESSURE
+2023-03-06 17:55:34,247 log.py[line:35] INFO INTAKE_PRESSURE
+2023-03-06 17:55:34,247 log.py[line:35] INFO RPM
+2023-03-06 17:55:34,248 log.py[line:35] INFO SPEED
+2023-03-06 17:55:34,248 log.py[line:35] INFO TIMING_ADVANCE
+2023-03-06 17:55:34,248 log.py[line:35] INFO INTAKE_TEMP
+2023-03-06 17:55:34,248 log.py[line:35] INFO MAF
+2023-03-06 17:55:34,248 log.py[line:35] INFO THROTTLE_POS
+2023-03-06 17:55:34,248 log.py[line:35] INFO AIR_STATUS
+2023-03-06 17:55:34,248 log.py[line:35] INFO O2_SENSORS
+2023-03-06 17:55:34,248 log.py[line:35] INFO O2_B1S1
+2023-03-06 17:55:34,248 log.py[line:35] INFO O2_B1S2
+2023-03-06 17:55:34,248 log.py[line:35] INFO O2_B1S3
+2023-03-06 17:55:34,248 log.py[line:35] INFO O2_B1S4
+2023-03-06 17:55:34,248 log.py[line:35] INFO O2_B2S1
+2023-03-06 17:55:34,248 log.py[line:35] INFO O2_B2S2
+2023-03-06 17:55:34,248 log.py[line:35] INFO O2_B2S3
+2023-03-06 17:55:34,248 log.py[line:35] INFO O2_B2S4
+2023-03-06 17:55:34,248 log.py[line:35] INFO OBD_COMPLIANCE
+2023-03-06 17:55:34,248 log.py[line:35] INFO O2_SENSORS_ALT
+2023-03-06 17:55:34,248 log.py[line:35] INFO AUX_INPUT_STATUS
+2023-03-06 17:55:34,248 log.py[line:35] INFO RUN_TIME
+2023-03-06 17:55:34,248 log.py[line:35] INFO PIDS_B
+2023-03-06 17:55:34,248 log.py[line:35] INFO DISTANCE_W_MIL
+2023-03-06 17:55:34,248 log.py[line:35] INFO FUEL_RAIL_PRESSURE_VAC
+2023-03-06 17:55:34,249 log.py[line:35] INFO FUEL_RAIL_PRESSURE_DIRECT
+2023-03-06 17:55:34,249 log.py[line:35] INFO O2_S1_WR_VOLTAGE
+2023-03-06 17:55:34,249 log.py[line:35] INFO O2_S2_WR_VOLTAGE
+2023-03-06 17:55:34,249 log.py[line:35] INFO O2_S3_WR_VOLTAGE
+2023-03-06 17:55:34,249 log.py[line:35] INFO O2_S4_WR_VOLTAGE
+2023-03-06 17:55:34,249 log.py[line:35] INFO O2_S5_WR_VOLTAGE
+2023-03-06 17:55:34,249 log.py[line:35] INFO O2_S6_WR_VOLTAGE
+2023-03-06 17:55:34,249 log.py[line:35] INFO O2_S7_WR_VOLTAGE
+2023-03-06 17:55:34,249 log.py[line:35] INFO O2_S8_WR_VOLTAGE
+2023-03-06 17:55:34,249 log.py[line:35] INFO COMMANDED_EGR
+2023-03-06 17:55:34,249 log.py[line:35] INFO EGR_ERROR
+2023-03-06 17:55:34,249 log.py[line:35] INFO EVAPORATIVE_PURGE
+2023-03-06 17:55:34,249 log.py[line:35] INFO FUEL_LEVEL
+2023-03-06 17:55:34,249 log.py[line:35] INFO WARMUPS_SINCE_DTC_CLEAR
+2023-03-06 17:55:34,249 log.py[line:35] INFO DISTANCE_SINCE_DTC_CLEAR
+2023-03-06 17:55:34,249 log.py[line:35] INFO EVAP_VAPOR_PRESSURE
+2023-03-06 17:55:34,249 log.py[line:35] INFO BAROMETRIC_PRESSURE
+2023-03-06 17:55:34,249 log.py[line:35] INFO O2_S1_WR_CURRENT
+2023-03-06 17:55:34,249 log.py[line:35] INFO O2_S2_WR_CURRENT
+2023-03-06 17:55:34,249 log.py[line:35] INFO O2_S3_WR_CURRENT
+2023-03-06 17:55:34,249 log.py[line:35] INFO O2_S4_WR_CURRENT
+2023-03-06 17:55:34,249 log.py[line:35] INFO O2_S5_WR_CURRENT
+2023-03-06 17:55:34,249 log.py[line:35] INFO O2_S6_WR_CURRENT
+2023-03-06 17:55:34,249 log.py[line:35] INFO O2_S7_WR_CURRENT
+2023-03-06 17:55:34,249 log.py[line:35] INFO O2_S8_WR_CURRENT
+2023-03-06 17:55:34,250 log.py[line:35] INFO CATALYST_TEMP_B1S1
+2023-03-06 17:55:34,250 log.py[line:35] INFO CATALYST_TEMP_B2S1
+2023-03-06 17:55:34,250 log.py[line:35] INFO CATALYST_TEMP_B1S2
+2023-03-06 17:55:34,250 log.py[line:35] INFO CATALYST_TEMP_B2S2
+2023-03-06 17:55:34,250 log.py[line:35] INFO PIDS_C
+2023-03-06 17:55:34,250 log.py[line:35] INFO STATUS_DRIVE_CYCLE
+2023-03-06 17:55:34,250 log.py[line:35] INFO CONTROL_MODULE_VOLTAGE
+2023-03-06 17:55:34,250 log.py[line:35] INFO ABSOLUTE_LOAD
+2023-03-06 17:55:34,250 log.py[line:35] INFO COMMANDED_EQUIV_RATIO
+2023-03-06 17:55:34,250 log.py[line:35] INFO RELATIVE_THROTTLE_POS
+2023-03-06 17:55:34,250 log.py[line:35] INFO AMBIANT_AIR_TEMP
+2023-03-06 17:55:34,250 log.py[line:35] INFO THROTTLE_POS_B
+2023-03-06 17:55:34,250 log.py[line:35] INFO THROTTLE_POS_C
+2023-03-06 17:55:34,250 log.py[line:35] INFO ACCELERATOR_POS_D
+2023-03-06 17:55:34,250 log.py[line:35] INFO ACCELERATOR_POS_E
+2023-03-06 17:55:34,250 log.py[line:35] INFO ACCELERATOR_POS_F
+2023-03-06 17:55:34,250 log.py[line:35] INFO THROTTLE_ACTUATOR
+2023-03-06 17:55:34,250 log.py[line:35] INFO RUN_TIME_MIL
+2023-03-06 17:55:34,250 log.py[line:35] INFO TIME_SINCE_DTC_CLEARED
+2023-03-06 17:55:34,250 log.py[line:35] INFO MAX_VALUES
+2023-03-06 17:55:34,250 log.py[line:35] INFO MAX_MAF
+2023-03-06 17:55:34,250 log.py[line:35] INFO FUEL_TYPE
+2023-03-06 17:55:34,250 log.py[line:35] INFO ETHANOL_PERCENT
+2023-03-06 17:55:34,250 log.py[line:35] INFO EVAP_VAPOR_PRESSURE_ABS
+2023-03-06 17:55:34,253 log.py[line:35] INFO EVAP_VAPOR_PRESSURE_ALT
+2023-03-06 17:55:34,253 log.py[line:35] INFO SHORT_O2_TRIM_B1
+2023-03-06 17:55:34,254 log.py[line:35] INFO LONG_O2_TRIM_B1
+2023-03-06 17:55:34,254 log.py[line:35] INFO SHORT_O2_TRIM_B2
+2023-03-06 17:55:34,254 log.py[line:35] INFO LONG_O2_TRIM_B2
+2023-03-06 17:55:34,254 log.py[line:35] INFO FUEL_RAIL_PRESSURE_ABS
+2023-03-06 17:55:34,255 log.py[line:35] INFO RELATIVE_ACCEL_POS
+2023-03-06 17:55:34,255 log.py[line:35] INFO HYBRID_BATTERY_REMAINING
+2023-03-06 17:55:34,255 log.py[line:35] INFO OIL_TEMP
+2023-03-06 17:55:34,255 log.py[line:35] INFO FUEL_INJECT_TIMING
+2023-03-06 17:55:34,255 log.py[line:35] INFO FUEL_RATE
+2023-03-06 17:55:34,255 log.py[line:35] INFO EMISSION_REQ
+2023-03-06 17:57:00,527 log.py[line:35] INFO PIDS_ASupported PIDs [01-20]
+2023-03-06 17:57:00,527 log.py[line:35] INFO STATUSStatus since DTCs cleared
+2023-03-06 17:57:00,527 log.py[line:35] INFO FREEZE_DTCDTC that triggered the freeze frame
+2023-03-06 17:57:00,527 log.py[line:35] INFO FUEL_STATUSFuel System Status
+2023-03-06 17:57:00,528 log.py[line:35] INFO ENGINE_LOADCalculated Engine Load
+2023-03-06 17:57:00,528 log.py[line:35] INFO COOLANT_TEMPEngine Coolant Temperature
+2023-03-06 17:57:00,528 log.py[line:35] INFO SHORT_FUEL_TRIM_1Short Term Fuel Trim - Bank 1
+2023-03-06 17:57:00,528 log.py[line:35] INFO LONG_FUEL_TRIM_1Long Term Fuel Trim - Bank 1
+2023-03-06 17:57:00,528 log.py[line:35] INFO SHORT_FUEL_TRIM_2Short Term Fuel Trim - Bank 2
+2023-03-06 17:57:00,528 log.py[line:35] INFO LONG_FUEL_TRIM_2Long Term Fuel Trim - Bank 2
+2023-03-06 17:57:00,528 log.py[line:35] INFO FUEL_PRESSUREFuel Pressure
+2023-03-06 17:57:00,528 log.py[line:35] INFO INTAKE_PRESSUREIntake Manifold Pressure
+2023-03-06 17:57:00,528 log.py[line:35] INFO RPMEngine RPM
+2023-03-06 17:57:00,528 log.py[line:35] INFO SPEEDVehicle Speed
+2023-03-06 17:57:00,528 log.py[line:35] INFO TIMING_ADVANCETiming Advance
+2023-03-06 17:57:00,528 log.py[line:35] INFO INTAKE_TEMPIntake Air Temp
+2023-03-06 17:57:00,528 log.py[line:35] INFO MAFAir Flow Rate (MAF)
+2023-03-06 17:57:00,528 log.py[line:35] INFO THROTTLE_POSThrottle Position
+2023-03-06 17:57:00,528 log.py[line:35] INFO AIR_STATUSSecondary Air Status
+2023-03-06 17:57:00,528 log.py[line:35] INFO O2_SENSORSO2 Sensors Present
+2023-03-06 17:57:00,530 log.py[line:35] INFO O2_B1S1O2: Bank 1 - Sensor 1 Voltage
+2023-03-06 17:57:00,530 log.py[line:35] INFO O2_B1S2O2: Bank 1 - Sensor 2 Voltage
+2023-03-06 17:57:00,531 log.py[line:35] INFO O2_B1S3O2: Bank 1 - Sensor 3 Voltage
+2023-03-06 17:57:00,531 log.py[line:35] INFO O2_B1S4O2: Bank 1 - Sensor 4 Voltage
+2023-03-06 17:57:00,531 log.py[line:35] INFO O2_B2S1O2: Bank 2 - Sensor 1 Voltage
+2023-03-06 17:57:00,531 log.py[line:35] INFO O2_B2S2O2: Bank 2 - Sensor 2 Voltage
+2023-03-06 17:57:00,531 log.py[line:35] INFO O2_B2S3O2: Bank 2 - Sensor 3 Voltage
+2023-03-06 17:57:00,531 log.py[line:35] INFO O2_B2S4O2: Bank 2 - Sensor 4 Voltage
+2023-03-06 17:57:00,531 log.py[line:35] INFO OBD_COMPLIANCEOBD Standards Compliance
+2023-03-06 17:57:00,531 log.py[line:35] INFO O2_SENSORS_ALTO2 Sensors Present (alternate)
+2023-03-06 17:57:00,531 log.py[line:35] INFO AUX_INPUT_STATUSAuxiliary input status (power take off)
+2023-03-06 17:57:00,531 log.py[line:35] INFO RUN_TIMEEngine Run Time
+2023-03-06 17:57:00,531 log.py[line:35] INFO PIDS_BSupported PIDs [21-40]
+2023-03-06 17:57:00,531 log.py[line:35] INFO DISTANCE_W_MILDistance Traveled with MIL on
+2023-03-06 17:57:00,531 log.py[line:35] INFO FUEL_RAIL_PRESSURE_VACFuel Rail Pressure (relative to vacuum)
+2023-03-06 17:57:00,531 log.py[line:35] INFO FUEL_RAIL_PRESSURE_DIRECTFuel Rail Pressure (direct inject)
+2023-03-06 17:57:00,531 log.py[line:35] INFO O2_S1_WR_VOLTAGE02 Sensor 1 WR Lambda Voltage
+2023-03-06 17:57:00,532 log.py[line:35] INFO O2_S2_WR_VOLTAGE02 Sensor 2 WR Lambda Voltage
+2023-03-06 17:57:00,532 log.py[line:35] INFO O2_S3_WR_VOLTAGE02 Sensor 3 WR Lambda Voltage
+2023-03-06 17:57:00,532 log.py[line:35] INFO O2_S4_WR_VOLTAGE02 Sensor 4 WR Lambda Voltage
+2023-03-06 17:57:00,532 log.py[line:35] INFO O2_S5_WR_VOLTAGE02 Sensor 5 WR Lambda Voltage
+2023-03-06 17:57:00,532 log.py[line:35] INFO O2_S6_WR_VOLTAGE02 Sensor 6 WR Lambda Voltage
+2023-03-06 17:57:00,532 log.py[line:35] INFO O2_S7_WR_VOLTAGE02 Sensor 7 WR Lambda Voltage
+2023-03-06 17:57:00,532 log.py[line:35] INFO O2_S8_WR_VOLTAGE02 Sensor 8 WR Lambda Voltage
+2023-03-06 17:57:00,532 log.py[line:35] INFO COMMANDED_EGRCommanded EGR
+2023-03-06 17:57:00,532 log.py[line:35] INFO EGR_ERROREGR Error
+2023-03-06 17:57:00,532 log.py[line:35] INFO EVAPORATIVE_PURGECommanded Evaporative Purge
+2023-03-06 17:57:00,532 log.py[line:35] INFO FUEL_LEVELFuel Level Input
+2023-03-06 17:57:00,532 log.py[line:35] INFO WARMUPS_SINCE_DTC_CLEARNumber of warm-ups since codes cleared
+2023-03-06 17:57:00,532 log.py[line:35] INFO DISTANCE_SINCE_DTC_CLEARDistance traveled since codes cleared
+2023-03-06 17:57:00,532 log.py[line:35] INFO EVAP_VAPOR_PRESSUREEvaporative system vapor pressure
+2023-03-06 17:57:00,532 log.py[line:35] INFO BAROMETRIC_PRESSUREBarometric Pressure
+2023-03-06 17:57:00,532 log.py[line:35] INFO O2_S1_WR_CURRENT02 Sensor 1 WR Lambda Current
+2023-03-06 17:57:00,532 log.py[line:35] INFO O2_S2_WR_CURRENT02 Sensor 2 WR Lambda Current
+2023-03-06 17:57:00,532 log.py[line:35] INFO O2_S3_WR_CURRENT02 Sensor 3 WR Lambda Current
+2023-03-06 17:57:00,535 log.py[line:35] INFO O2_S4_WR_CURRENT02 Sensor 4 WR Lambda Current
+2023-03-06 17:57:00,535 log.py[line:35] INFO O2_S5_WR_CURRENT02 Sensor 5 WR Lambda Current
+2023-03-06 17:57:00,535 log.py[line:35] INFO O2_S6_WR_CURRENT02 Sensor 6 WR Lambda Current
+2023-03-06 17:57:00,535 log.py[line:35] INFO O2_S7_WR_CURRENT02 Sensor 7 WR Lambda Current
+2023-03-06 17:57:00,535 log.py[line:35] INFO O2_S8_WR_CURRENT02 Sensor 8 WR Lambda Current
+2023-03-06 17:57:00,535 log.py[line:35] INFO CATALYST_TEMP_B1S1Catalyst Temperature: Bank 1 - Sensor 1
+2023-03-06 17:57:00,535 log.py[line:35] INFO CATALYST_TEMP_B2S1Catalyst Temperature: Bank 2 - Sensor 1
+2023-03-06 17:57:00,535 log.py[line:35] INFO CATALYST_TEMP_B1S2Catalyst Temperature: Bank 1 - Sensor 2
+2023-03-06 17:57:00,535 log.py[line:35] INFO CATALYST_TEMP_B2S2Catalyst Temperature: Bank 2 - Sensor 2
+2023-03-06 17:57:00,535 log.py[line:35] INFO PIDS_CSupported PIDs [41-60]
+2023-03-06 17:57:00,537 log.py[line:35] INFO STATUS_DRIVE_CYCLEMonitor status this drive cycle
+2023-03-06 17:57:00,537 log.py[line:35] INFO CONTROL_MODULE_VOLTAGEControl module voltage
+2023-03-06 17:57:00,537 log.py[line:35] INFO ABSOLUTE_LOADAbsolute load value
+2023-03-06 17:57:00,537 log.py[line:35] INFO COMMANDED_EQUIV_RATIOCommanded equivalence ratio
+2023-03-06 17:57:00,537 log.py[line:35] INFO RELATIVE_THROTTLE_POSRelative throttle position
+2023-03-06 17:57:00,537 log.py[line:35] INFO AMBIANT_AIR_TEMPAmbient air temperature
+2023-03-06 17:57:00,537 log.py[line:35] INFO THROTTLE_POS_BAbsolute throttle position B
+2023-03-06 17:57:00,537 log.py[line:35] INFO THROTTLE_POS_CAbsolute throttle position C
+2023-03-06 17:57:00,537 log.py[line:35] INFO ACCELERATOR_POS_DAccelerator pedal position D
+2023-03-06 17:57:00,537 log.py[line:35] INFO ACCELERATOR_POS_EAccelerator pedal position E
+2023-03-06 17:57:00,537 log.py[line:35] INFO ACCELERATOR_POS_FAccelerator pedal position F
+2023-03-06 17:57:00,537 log.py[line:35] INFO THROTTLE_ACTUATORCommanded throttle actuator
+2023-03-06 17:57:00,537 log.py[line:35] INFO RUN_TIME_MILTime run with MIL on
+2023-03-06 17:57:00,537 log.py[line:35] INFO TIME_SINCE_DTC_CLEAREDTime since trouble codes cleared
+2023-03-06 17:57:00,537 log.py[line:35] INFO MAX_VALUESVarious Max values
+2023-03-06 17:57:00,537 log.py[line:35] INFO MAX_MAFMaximum value for mass air flow sensor
+2023-03-06 17:57:00,537 log.py[line:35] INFO FUEL_TYPEFuel Type
+2023-03-06 17:57:00,537 log.py[line:35] INFO ETHANOL_PERCENTEthanol Fuel Percent
+2023-03-06 17:57:00,537 log.py[line:35] INFO EVAP_VAPOR_PRESSURE_ABSAbsolute Evap system Vapor Pressure
+2023-03-06 17:57:00,537 log.py[line:35] INFO EVAP_VAPOR_PRESSURE_ALTEvap system vapor pressure
+2023-03-06 17:57:00,537 log.py[line:35] INFO SHORT_O2_TRIM_B1Short term secondary O2 trim - Bank 1
+2023-03-06 17:57:00,537 log.py[line:35] INFO LONG_O2_TRIM_B1Long term secondary O2 trim - Bank 1
+2023-03-06 17:57:00,537 log.py[line:35] INFO SHORT_O2_TRIM_B2Short term secondary O2 trim - Bank 2
+2023-03-06 17:57:00,537 log.py[line:35] INFO LONG_O2_TRIM_B2Long term secondary O2 trim - Bank 2
+2023-03-06 17:57:00,538 log.py[line:35] INFO FUEL_RAIL_PRESSURE_ABSFuel rail pressure (absolute)
+2023-03-06 17:57:00,538 log.py[line:35] INFO RELATIVE_ACCEL_POSRelative accelerator pedal position
+2023-03-06 17:57:00,538 log.py[line:35] INFO HYBRID_BATTERY_REMAININGHybrid battery pack remaining life
+2023-03-06 17:57:00,538 log.py[line:35] INFO OIL_TEMPEngine oil temperature
+2023-03-06 17:57:00,538 log.py[line:35] INFO FUEL_INJECT_TIMINGFuel injection timing
+2023-03-06 17:57:00,538 log.py[line:35] INFO FUEL_RATEEngine fuel rate
+2023-03-06 17:57:00,538 log.py[line:35] INFO EMISSION_REQDesigned emission requirements
+2023-03-06 17:57:51,197 log.py[line:35] INFO 指令PIDS_A描述Supported PIDs [01-20]
+2023-03-06 17:57:51,197 log.py[line:35] INFO 指令STATUS描述Status since DTCs cleared
+2023-03-06 17:57:51,197 log.py[line:35] INFO 指令FREEZE_DTC描述DTC that triggered the freeze frame
+2023-03-06 17:57:51,197 log.py[line:35] INFO 指令FUEL_STATUS描述Fuel System Status
+2023-03-06 17:57:51,197 log.py[line:35] INFO 指令ENGINE_LOAD描述Calculated Engine Load
+2023-03-06 17:57:51,197 log.py[line:35] INFO 指令COOLANT_TEMP描述Engine Coolant Temperature
+2023-03-06 17:57:51,197 log.py[line:35] INFO 指令SHORT_FUEL_TRIM_1描述Short Term Fuel Trim - Bank 1
+2023-03-06 17:57:51,197 log.py[line:35] INFO 指令LONG_FUEL_TRIM_1描述Long Term Fuel Trim - Bank 1
+2023-03-06 17:57:51,197 log.py[line:35] INFO 指令SHORT_FUEL_TRIM_2描述Short Term Fuel Trim - Bank 2
+2023-03-06 17:57:51,197 log.py[line:35] INFO 指令LONG_FUEL_TRIM_2描述Long Term Fuel Trim - Bank 2
+2023-03-06 17:57:51,197 log.py[line:35] INFO 指令FUEL_PRESSURE描述Fuel Pressure
+2023-03-06 17:57:51,198 log.py[line:35] INFO 指令INTAKE_PRESSURE描述Intake Manifold Pressure
+2023-03-06 17:57:51,198 log.py[line:35] INFO 指令RPM描述Engine RPM
+2023-03-06 17:57:51,198 log.py[line:35] INFO 指令SPEED描述Vehicle Speed
+2023-03-06 17:57:51,198 log.py[line:35] INFO 指令TIMING_ADVANCE描述Timing Advance
+2023-03-06 17:57:51,198 log.py[line:35] INFO 指令INTAKE_TEMP描述Intake Air Temp
+2023-03-06 17:57:51,198 log.py[line:35] INFO 指令MAF描述Air Flow Rate (MAF)
+2023-03-06 17:57:51,198 log.py[line:35] INFO 指令THROTTLE_POS描述Throttle Position
+2023-03-06 17:57:51,198 log.py[line:35] INFO 指令AIR_STATUS描述Secondary Air Status
+2023-03-06 17:57:51,198 log.py[line:35] INFO 指令O2_SENSORS描述O2 Sensors Present
+2023-03-06 17:57:51,198 log.py[line:35] INFO 指令O2_B1S1描述O2: Bank 1 - Sensor 1 Voltage
+2023-03-06 17:57:51,198 log.py[line:35] INFO 指令O2_B1S2描述O2: Bank 1 - Sensor 2 Voltage
+2023-03-06 17:57:51,198 log.py[line:35] INFO 指令O2_B1S3描述O2: Bank 1 - Sensor 3 Voltage
+2023-03-06 17:57:51,198 log.py[line:35] INFO 指令O2_B1S4描述O2: Bank 1 - Sensor 4 Voltage
+2023-03-06 17:57:51,198 log.py[line:35] INFO 指令O2_B2S1描述O2: Bank 2 - Sensor 1 Voltage
+2023-03-06 17:57:51,198 log.py[line:35] INFO 指令O2_B2S2描述O2: Bank 2 - Sensor 2 Voltage
+2023-03-06 17:57:51,198 log.py[line:35] INFO 指令O2_B2S3描述O2: Bank 2 - Sensor 3 Voltage
+2023-03-06 17:57:51,198 log.py[line:35] INFO 指令O2_B2S4描述O2: Bank 2 - Sensor 4 Voltage
+2023-03-06 17:57:51,198 log.py[line:35] INFO 指令OBD_COMPLIANCE描述OBD Standards Compliance
+2023-03-06 17:57:51,198 log.py[line:35] INFO 指令O2_SENSORS_ALT描述O2 Sensors Present (alternate)
+2023-03-06 17:57:51,198 log.py[line:35] INFO 指令AUX_INPUT_STATUS描述Auxiliary input status (power take off)
+2023-03-06 17:57:51,198 log.py[line:35] INFO 指令RUN_TIME描述Engine Run Time
+2023-03-06 17:57:51,198 log.py[line:35] INFO 指令PIDS_B描述Supported PIDs [21-40]
+2023-03-06 17:57:51,198 log.py[line:35] INFO 指令DISTANCE_W_MIL描述Distance Traveled with MIL on
+2023-03-06 17:57:51,198 log.py[line:35] INFO 指令FUEL_RAIL_PRESSURE_VAC描述Fuel Rail Pressure (relative to vacuum)
+2023-03-06 17:57:51,198 log.py[line:35] INFO 指令FUEL_RAIL_PRESSURE_DIRECT描述Fuel Rail Pressure (direct inject)
+2023-03-06 17:57:51,198 log.py[line:35] INFO 指令O2_S1_WR_VOLTAGE描述02 Sensor 1 WR Lambda Voltage
+2023-03-06 17:57:51,198 log.py[line:35] INFO 指令O2_S2_WR_VOLTAGE描述02 Sensor 2 WR Lambda Voltage
+2023-03-06 17:57:51,198 log.py[line:35] INFO 指令O2_S3_WR_VOLTAGE描述02 Sensor 3 WR Lambda Voltage
+2023-03-06 17:57:51,198 log.py[line:35] INFO 指令O2_S4_WR_VOLTAGE描述02 Sensor 4 WR Lambda Voltage
+2023-03-06 17:57:51,198 log.py[line:35] INFO 指令O2_S5_WR_VOLTAGE描述02 Sensor 5 WR Lambda Voltage
+2023-03-06 17:57:51,198 log.py[line:35] INFO 指令O2_S6_WR_VOLTAGE描述02 Sensor 6 WR Lambda Voltage
+2023-03-06 17:57:51,199 log.py[line:35] INFO 指令O2_S7_WR_VOLTAGE描述02 Sensor 7 WR Lambda Voltage
+2023-03-06 17:57:51,199 log.py[line:35] INFO 指令O2_S8_WR_VOLTAGE描述02 Sensor 8 WR Lambda Voltage
+2023-03-06 17:57:51,199 log.py[line:35] INFO 指令COMMANDED_EGR描述Commanded EGR
+2023-03-06 17:57:51,200 log.py[line:35] INFO 指令EGR_ERROR描述EGR Error
+2023-03-06 17:57:51,200 log.py[line:35] INFO 指令EVAPORATIVE_PURGE描述Commanded Evaporative Purge
+2023-03-06 17:57:51,200 log.py[line:35] INFO 指令FUEL_LEVEL描述Fuel Level Input
+2023-03-06 17:57:51,200 log.py[line:35] INFO 指令WARMUPS_SINCE_DTC_CLEAR描述Number of warm-ups since codes cleared
+2023-03-06 17:57:51,200 log.py[line:35] INFO 指令DISTANCE_SINCE_DTC_CLEAR描述Distance traveled since codes cleared
+2023-03-06 17:57:51,200 log.py[line:35] INFO 指令EVAP_VAPOR_PRESSURE描述Evaporative system vapor pressure
+2023-03-06 17:57:51,200 log.py[line:35] INFO 指令BAROMETRIC_PRESSURE描述Barometric Pressure
+2023-03-06 17:57:51,200 log.py[line:35] INFO 指令O2_S1_WR_CURRENT描述02 Sensor 1 WR Lambda Current
+2023-03-06 17:57:51,200 log.py[line:35] INFO 指令O2_S2_WR_CURRENT描述02 Sensor 2 WR Lambda Current
+2023-03-06 17:57:51,200 log.py[line:35] INFO 指令O2_S3_WR_CURRENT描述02 Sensor 3 WR Lambda Current
+2023-03-06 17:57:51,200 log.py[line:35] INFO 指令O2_S4_WR_CURRENT描述02 Sensor 4 WR Lambda Current
+2023-03-06 17:57:51,200 log.py[line:35] INFO 指令O2_S5_WR_CURRENT描述02 Sensor 5 WR Lambda Current
+2023-03-06 17:57:51,200 log.py[line:35] INFO 指令O2_S6_WR_CURRENT描述02 Sensor 6 WR Lambda Current
+2023-03-06 17:57:51,200 log.py[line:35] INFO 指令O2_S7_WR_CURRENT描述02 Sensor 7 WR Lambda Current
+2023-03-06 17:57:51,201 log.py[line:35] INFO 指令O2_S8_WR_CURRENT描述02 Sensor 8 WR Lambda Current
+2023-03-06 17:57:51,201 log.py[line:35] INFO 指令CATALYST_TEMP_B1S1描述Catalyst Temperature: Bank 1 - Sensor 1
+2023-03-06 17:57:51,201 log.py[line:35] INFO 指令CATALYST_TEMP_B2S1描述Catalyst Temperature: Bank 2 - Sensor 1
+2023-03-06 17:57:51,201 log.py[line:35] INFO 指令CATALYST_TEMP_B1S2描述Catalyst Temperature: Bank 1 - Sensor 2
+2023-03-06 17:57:51,201 log.py[line:35] INFO 指令CATALYST_TEMP_B2S2描述Catalyst Temperature: Bank 2 - Sensor 2
+2023-03-06 17:57:51,201 log.py[line:35] INFO 指令PIDS_C描述Supported PIDs [41-60]
+2023-03-06 17:57:51,201 log.py[line:35] INFO 指令STATUS_DRIVE_CYCLE描述Monitor status this drive cycle
+2023-03-06 17:57:51,201 log.py[line:35] INFO 指令CONTROL_MODULE_VOLTAGE描述Control module voltage
+2023-03-06 17:57:51,201 log.py[line:35] INFO 指令ABSOLUTE_LOAD描述Absolute load value
+2023-03-06 17:57:51,201 log.py[line:35] INFO 指令COMMANDED_EQUIV_RATIO描述Commanded equivalence ratio
+2023-03-06 17:57:51,201 log.py[line:35] INFO 指令RELATIVE_THROTTLE_POS描述Relative throttle position
+2023-03-06 17:57:51,201 log.py[line:35] INFO 指令AMBIANT_AIR_TEMP描述Ambient air temperature
+2023-03-06 17:57:51,201 log.py[line:35] INFO 指令THROTTLE_POS_B描述Absolute throttle position B
+2023-03-06 17:57:51,201 log.py[line:35] INFO 指令THROTTLE_POS_C描述Absolute throttle position C
+2023-03-06 17:57:51,201 log.py[line:35] INFO 指令ACCELERATOR_POS_D描述Accelerator pedal position D
+2023-03-06 17:57:51,201 log.py[line:35] INFO 指令ACCELERATOR_POS_E描述Accelerator pedal position E
+2023-03-06 17:57:51,201 log.py[line:35] INFO 指令ACCELERATOR_POS_F描述Accelerator pedal position F
+2023-03-06 17:57:51,201 log.py[line:35] INFO 指令THROTTLE_ACTUATOR描述Commanded throttle actuator
+2023-03-06 17:57:51,201 log.py[line:35] INFO 指令RUN_TIME_MIL描述Time run with MIL on
+2023-03-06 17:57:51,201 log.py[line:35] INFO 指令TIME_SINCE_DTC_CLEARED描述Time since trouble codes cleared
+2023-03-06 17:57:51,201 log.py[line:35] INFO 指令MAX_VALUES描述Various Max values
+2023-03-06 17:57:51,201 log.py[line:35] INFO 指令MAX_MAF描述Maximum value for mass air flow sensor
+2023-03-06 17:57:51,201 log.py[line:35] INFO 指令FUEL_TYPE描述Fuel Type
+2023-03-06 17:57:51,201 log.py[line:35] INFO 指令ETHANOL_PERCENT描述Ethanol Fuel Percent
+2023-03-06 17:57:51,201 log.py[line:35] INFO 指令EVAP_VAPOR_PRESSURE_ABS描述Absolute Evap system Vapor Pressure
+2023-03-06 17:57:51,201 log.py[line:35] INFO 指令EVAP_VAPOR_PRESSURE_ALT描述Evap system vapor pressure
+2023-03-06 17:57:51,201 log.py[line:35] INFO 指令SHORT_O2_TRIM_B1描述Short term secondary O2 trim - Bank 1
+2023-03-06 17:57:51,201 log.py[line:35] INFO 指令LONG_O2_TRIM_B1描述Long term secondary O2 trim - Bank 1
+2023-03-06 17:57:51,201 log.py[line:35] INFO 指令SHORT_O2_TRIM_B2描述Short term secondary O2 trim - Bank 2
+2023-03-06 17:57:51,201 log.py[line:35] INFO 指令LONG_O2_TRIM_B2描述Long term secondary O2 trim - Bank 2
+2023-03-06 17:57:51,201 log.py[line:35] INFO 指令FUEL_RAIL_PRESSURE_ABS描述Fuel rail pressure (absolute)
+2023-03-06 17:57:51,201 log.py[line:35] INFO 指令RELATIVE_ACCEL_POS描述Relative accelerator pedal position
+2023-03-06 17:57:51,201 log.py[line:35] INFO 指令HYBRID_BATTERY_REMAINING描述Hybrid battery pack remaining life
+2023-03-06 17:57:51,201 log.py[line:35] INFO 指令OIL_TEMP描述Engine oil temperature
+2023-03-06 17:57:51,201 log.py[line:35] INFO 指令FUEL_INJECT_TIMING描述Fuel injection timing
+2023-03-06 17:57:51,202 log.py[line:35] INFO 指令FUEL_RATE描述Engine fuel rate
+2023-03-06 17:57:51,202 log.py[line:35] INFO 指令EMISSION_REQ描述Designed emission requirements
