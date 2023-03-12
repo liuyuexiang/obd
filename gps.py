@@ -1,7 +1,8 @@
 import serial
-import time
+
 import string
 import pynmea2
+from datetime import datetime, timedelta
 
 while True:
 	port="/dev/ttyAMA0"
@@ -11,7 +12,12 @@ while True:
 
 	if newdata[0:6] == "$GPRMC":
 		newmsg=pynmea2.parse(newdata)
+		
 		lat=newmsg.latitude
 		lng=newmsg.longitude
-		gps = "Latitude=" + str(lat) + "and Longitude=" + str(lng)
+		dt = newmsg.timestamp
+		print(dt.hour, dt.minute, dt.second)
+		print((newmsg.datetime.utcnow() + timedelta(hours=8)).strftime("%m/%d/%Y, %H:%M:%S"))
+        
+		gps = "Latitude=" + str(lat) + " and Longitude=" + str(lng)
 		print(gps)
