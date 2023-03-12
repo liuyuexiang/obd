@@ -20,7 +20,7 @@ while True:
 		print(dt.hour, dt.minute, dt.second)
 		time_s = (newmsg.datetime.utcnow() + timedelta(hours=8)).strftime("%m/%d/%Y, %H:%M:%S")
 		log.PlatformLog.info('time::%s',time_s)
-		log.PlatformLog.info('%s',time_s)
+		# log.PlatformLog.debug(time_s)
         
 		gps = "Latitude=" + str(lat) + " and Longitude=" + str(lng)
-		log.PlatformLog.info('%s',gps)
+		log.PlatformLog.info(gps)
